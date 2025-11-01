@@ -1,7 +1,7 @@
 # Chest-Disease-Classification-from-Chest-CT-Scan-Image
-Image classification project. 
+Image classification development project. 
 
-- [Data link](https://drive.google.com/file/d/1z0mreUtRmR-P-magILsDR3T7M6IkGXtY/view?usp=sharing)
+- [Download Data](https://drive.google.com/file/d/1z0mreUtRmR-P-magILsDR3T7M6IkGXtY/view?usp=sharing)
 
 ## Workflows
 
